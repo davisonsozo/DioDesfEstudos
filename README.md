@@ -1,4 +1,4 @@
-# Dio Desafio Estudos 
+# Dio Desafio Estudos :man_student: :computer:
 
 
 
@@ -6,7 +6,7 @@
 
 
 
-Desafio de projetos sobre GIT/GITHUB
+### Desafio de projetos sobre GIT/GITHUB
 
 
 
